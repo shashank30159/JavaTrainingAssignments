@@ -1,4 +1,4 @@
-package com.vm.training.java.collections;
+package com.vm.training.java.assignment.collections;
 
 public class ScoreCard 
 {
