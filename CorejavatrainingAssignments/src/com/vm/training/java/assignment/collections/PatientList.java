@@ -28,6 +28,11 @@ public class PatientList {
 	public void setPatientAge(int patientAge) {
 		this.patientAge = patientAge;
 	}
+	@Override
+	public String toString() {
+		return "PatientList [patientId=" + patientId + ", patientName=" + patientName + ", patientAge=" + patientAge
+				+ "]";
+	}
 	
 	
 
